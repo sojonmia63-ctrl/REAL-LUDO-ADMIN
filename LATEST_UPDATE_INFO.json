@@ -1,8 +1,0 @@
-{
-  "appType": "AdminPanel",
-  "bundledAt": "2026-11-07T03:57:21.531Z",
-  "bundledAtDhaka": "৭/১১/২০২৬, ৯:৫৭:২১ AM",
-  "status": "LATEST_FRESH_BUILD",
-  "buildVerification": "npm run build PASSED 100%",
-  "database": "Firebase Realtime Database"
-}
