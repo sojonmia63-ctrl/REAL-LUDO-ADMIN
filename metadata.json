@@ -1,0 +1,6 @@
+{
+  "name": "Real Ludo - খেলো জিতো টাকা নাও",
+  "description": "লুডু টুর্নামেন্ট ও রিয়েল আর্নিং প্ল্যাটফর্ম এবং ফুল-ফিচার্ড অ্যাডমিন কন্ট্রোল প্যানেল",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
